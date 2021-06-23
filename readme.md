@@ -17,7 +17,7 @@ No, no causo ningún conflicto porqué solo modificamos el archivo en una rama.<
 Sí, por que hemos modificado el mismo archivo en las mismas líneas.<br />
 
 -El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?<br />
-No, por que no modificamos ninguna linea.
+No, por que no modificamos ninguna linea.<br />
 
 -¿Qué comando o comandos utilizaste en el paso 25?<br />
 	<code>git log --graph --decorate --pretty=oneline<br />
@@ -46,3 +46,4 @@ No, por que habiamos creado un commit en cada rama.<br />
 	<code>git reflog</code><br />
         <code>git reset -- hard 9692d54</code><br />
 
+</p>
