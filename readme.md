@@ -23,7 +23,7 @@ No, por que no modificamos ninguna linea.
 	<code>git log --graph --decorate --pretty=oneline<br />
 
 -El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?<br />
-No, por que habiamos creado un commit en cada rama.
+No, por que habiamos creado un commit en cada rama.<br />
 
 -¿Qué comando o comandos utilizaste en el paso 27?<br />
 	<code>git reset HEAD~1</code><br />
