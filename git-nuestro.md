@@ -1,4 +1,3 @@
-
 *Git* nuestro que estas en los repos
 
 Comprimidos sean tus *commits*
@@ -18,3 +17,4 @@ No nos dejes caer en *detached HEAD*
 y libranos de *SVN*
 
 `git commit --amend`
+
