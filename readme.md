@@ -20,7 +20,7 @@ Sí, por que hemos modificado el mismo archivo en las mismas líneas.<br />
 No, por que no modificamos ninguna linea.<br />
 
 -¿Qué comando o comandos utilizaste en el paso 25?<br />
-	<code>git log --graph --decorate --pretty=oneline<br />
+	<code>git log --graph --decorate --pretty=oneline</code><br />
 
 -El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?<br />
 No, por que habiamos creado un commit en cada rama.<br />
