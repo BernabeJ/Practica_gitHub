@@ -14,7 +14,7 @@ y el indicador poder rehacer el último commit <br />
 No, no causo ningún conflicto porqué solo modificamos el archivo en una rama.<br />
 
 -El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?<br />
-Sí, por que hemos modificado el mismo archivo en las mismas líneas.<br />
+Sí, por que hemos modificado el mismo archivo en las mismas líneas, en dos ramas diferentes.<br />
 
 -El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?<br />
 No, por que no modificamos ninguna linea.<br />
